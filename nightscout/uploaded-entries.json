@@ -119,11 +119,11 @@
     "direction": "FortyFiveDown", 
     "sgv": 99, 
     "dateString": "2017-03-30T14:35:50-07:00", 
-    "device": "openaps://indy-e1/cgm", 
-    "unfiltered": 113376, 
-    "rssi": 185, 
     "date": 1490909750000, 
+    "unfiltered": 113376, 
     "filtered": 126960, 
+    "device": "openaps://indy-e1/cgm", 
+    "rssi": 185, 
     "type": "sgv", 
     "glucose": 99
   }
