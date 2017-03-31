@@ -132,11 +132,11 @@
     "direction": "Flat", 
     "sgv": 102, 
     "dateString": "2017-03-31T12:55:48-07:00", 
-    "device": "openaps://indy-e1/cgm", 
-    "unfiltered": 109488, 
-    "rssi": 441, 
     "date": 1490990148000, 
+    "unfiltered": 109488, 
     "filtered": 103024, 
+    "device": "openaps://indy-e1/cgm", 
+    "rssi": 441, 
     "type": "sgv", 
     "glucose": 102
   }
