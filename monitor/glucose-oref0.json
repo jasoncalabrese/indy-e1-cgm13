@@ -72,10 +72,7 @@
     "display_time": "2017-04-07T19:05:26", 
     "date": 1491617126000.0, 
     "dateString": "2017-04-07T19:05:26", 
-    "unfiltered": 131264, 
-    "filtered": 136992, 
     "device": "openaps://indy-e1/cgm", 
-    "rssi": 189, 
     "type": "sgv", 
     "glucose": 111
   }
