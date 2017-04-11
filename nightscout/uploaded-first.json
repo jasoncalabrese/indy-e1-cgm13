@@ -1,6 +1,22 @@
 [
   {
     "trend_arrow": "FLAT", 
+    "display_time": "2017-04-10T17:35:17-07:00", 
+    "noise": 1, 
+    "system_time": "2017-04-11T00:34:17-07:00", 
+    "direction": "Flat", 
+    "sgv": 109, 
+    "dateString": "2017-04-10T17:35:17-07:00", 
+    "date": 1491870917000, 
+    "unfiltered": 125120, 
+    "filtered": 121936, 
+    "device": "openaps://indy-e1/cgm", 
+    "rssi": 451, 
+    "type": "sgv", 
+    "glucose": 109
+  }, 
+  {
+    "trend_arrow": "FLAT", 
     "display_time": "2017-04-10T17:30:17-07:00", 
     "noise": 1, 
     "system_time": "2017-04-11T00:29:17-07:00", 
@@ -14,21 +30,5 @@
     "rssi": 199, 
     "type": "sgv", 
     "glucose": 108
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "display_time": "2017-04-10T17:25:17-07:00", 
-    "noise": 1, 
-    "system_time": "2017-04-11T00:24:17-07:00", 
-    "direction": "Flat", 
-    "sgv": 106, 
-    "dateString": "2017-04-10T17:25:17-07:00", 
-    "date": 1491870317000, 
-    "unfiltered": 121696, 
-    "filtered": 124608, 
-    "device": "openaps://indy-e1/cgm", 
-    "rssi": 187, 
-    "type": "sgv", 
-    "glucose": 106
   }
 ]
